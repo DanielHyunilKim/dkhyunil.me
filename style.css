@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: ##28282d;
+  background-color: #f2f2f9;
+}
+
+main {
+  max-width: 38rem;
+  padding: 1.5rem;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  outline: 0;
+  color: #6d6dff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+li time {
+  float: right;
+  color: #a3a3a8;
+}
