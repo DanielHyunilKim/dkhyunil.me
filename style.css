@@ -1,7 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: ##28282d;
-  background-color: #f2f2f9;
+  background-color:whitesmoke;
 }
 
 main {
@@ -13,7 +13,7 @@ main {
 a {
   text-decoration: none;
   outline: 0;
-  color: #6d6dff;
+  color:cornflowerblue;
 }
 
 a:hover {
